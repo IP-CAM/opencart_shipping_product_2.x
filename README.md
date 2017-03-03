@@ -46,6 +46,7 @@ Encontrou algum bug ou tem sugestões de melhorias no código? Sensacional! Não
 [MIT][5]
 
 Powered by
+
 ![Frete Rápido - Sistema Inteligente de Gestão Logística](https://freterapido.com/imgs/frete_rapido.png)
 
 > Desenvolvido com base no plugin [opencart_extensions][6] de [Willian Briotto][7]
