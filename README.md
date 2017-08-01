@@ -54,6 +54,6 @@ Powered by
 [1]: https://github.com/freterapido/freterapido_opencart_2x
 [3]: https://github.com/vqmod/vqmod/releases/download/v2.6.1-opencart/vqmod-2.6.1-opencart.zip
 [4]: https://github.com/freterapido/opencart_shipping_product_2.x/raw/master/upload.ocmod.zip
-[5]: https://github.com/freterapido/opencart_shipping_product_1.5.x/blob/master/LICENSE
+[5]: https://github.com/freterapido/opencart_shipping_product_2.x/blob/master/LICENSE
 [6]: https://github.com/willianbriotto/opencart_extensions
 [7]: https://github.com/willianbriotto
